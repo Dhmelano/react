@@ -1,0 +1,8 @@
+node nos permite que la computadora pueda interpretar javascript
+
+
+como limpiar el proyecto
+
+vamos al main.jsx eliminamos el index.css 
+
+en app.jsx 
